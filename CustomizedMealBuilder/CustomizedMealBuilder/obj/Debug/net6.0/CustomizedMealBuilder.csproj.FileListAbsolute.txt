@@ -1,0 +1,14 @@
+C:\Users\shends\Desktop\Mentor\CustomizedMealBuilder\CustomizedMealBuilder\bin\Debug\net6.0\CustomizedMealBuilder.exe
+C:\Users\shends\Desktop\Mentor\CustomizedMealBuilder\CustomizedMealBuilder\bin\Debug\net6.0\CustomizedMealBuilder.deps.json
+C:\Users\shends\Desktop\Mentor\CustomizedMealBuilder\CustomizedMealBuilder\bin\Debug\net6.0\CustomizedMealBuilder.runtimeconfig.json
+C:\Users\shends\Desktop\Mentor\CustomizedMealBuilder\CustomizedMealBuilder\bin\Debug\net6.0\CustomizedMealBuilder.dll
+C:\Users\shends\Desktop\Mentor\CustomizedMealBuilder\CustomizedMealBuilder\bin\Debug\net6.0\CustomizedMealBuilder.pdb
+C:\Users\shends\Desktop\Mentor\CustomizedMealBuilder\CustomizedMealBuilder\obj\Debug\net6.0\CustomizedMealBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shends\Desktop\Mentor\CustomizedMealBuilder\CustomizedMealBuilder\obj\Debug\net6.0\CustomizedMealBuilder.AssemblyInfoInputs.cache
+C:\Users\shends\Desktop\Mentor\CustomizedMealBuilder\CustomizedMealBuilder\obj\Debug\net6.0\CustomizedMealBuilder.AssemblyInfo.cs
+C:\Users\shends\Desktop\Mentor\CustomizedMealBuilder\CustomizedMealBuilder\obj\Debug\net6.0\CustomizedMealBuilder.csproj.CoreCompileInputs.cache
+C:\Users\shends\Desktop\Mentor\CustomizedMealBuilder\CustomizedMealBuilder\obj\Debug\net6.0\CustomizedMealBuilder.dll
+C:\Users\shends\Desktop\Mentor\CustomizedMealBuilder\CustomizedMealBuilder\obj\Debug\net6.0\refint\CustomizedMealBuilder.dll
+C:\Users\shends\Desktop\Mentor\CustomizedMealBuilder\CustomizedMealBuilder\obj\Debug\net6.0\CustomizedMealBuilder.pdb
+C:\Users\shends\Desktop\Mentor\CustomizedMealBuilder\CustomizedMealBuilder\obj\Debug\net6.0\CustomizedMealBuilder.genruntimeconfig.cache
+C:\Users\shends\Desktop\Mentor\CustomizedMealBuilder\CustomizedMealBuilder\obj\Debug\net6.0\ref\CustomizedMealBuilder.dll
